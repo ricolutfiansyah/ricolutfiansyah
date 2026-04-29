@@ -1,20 +1,6 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20there%20👋&fontSize=42&fontColor=fff&fontAlignY=38&descAlignY=60&descColor=ffffff" />
 
-<!-- About Me -->
-## 🙋‍♂️ About Me
-
-```js
-const rico = {
-  name: "Rahmanda Rico Lutfiansyah",
-  username: "ricolutfiansyah",
-  focus: "Full Stack Web Development",
-  stack: ["HTML", "CSS", "JavaScript", "PHP", "Laravel",
-          "Node.js", "Express.js", "React", "Next.js"],
-  currentlyLearning: "Building cool things 🚀",
-};
-```
-
 ---
 
 <!-- Tech Stack -->
