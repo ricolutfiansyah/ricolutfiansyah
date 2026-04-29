@@ -1,5 +1,17 @@
 <!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Rico!%20👋&fontSize=42&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descColor=ffffff" />
+
+<!-- About Me -->
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNzdzJkcDI5YXM2eWt1dWJ2OG1zZGxmOWc0eWMzYm1waXlreWw4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ced8U3QzFaD3mxWDs5/giphy.gif" width="280" />
+
+## 🙋‍♂️ About Me
+
+- 👋 Hi, I'm **Rahmanda Rico Lutfiansyah**
+- 💻 Full Stack Web Developer
+- 🚀 Currently building cool things
+- 📍 Indonesia
+
+<br clear="right"/>
 
 ---
 
