@@ -25,10 +25,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricolutfiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricolutfiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ricolutfiansyah&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricolutfiansyah&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricolutfiansyah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricolutfiansyah&theme=vision-friendly-dark&hide_border=true" width="60%" />
 </p>
