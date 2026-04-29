@@ -5,7 +5,7 @@
 ---
 
 <!-- Tech Stack -->
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ---
 
 <!-- GitHub Stats -->
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricolutfiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%" />
